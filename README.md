@@ -1,8 +1,7 @@
-# 👋 Salom, Men menacegithub
+# 👋 Salom, Men menacedjava
 
 ### 🚀 Full-Stack Java Developer | Open Source Contributor  
-
-Web dasturlar, mikroxizmatlar va backend tizimlar bilan ishlashni yoqtiraman. Asosiy texnologiyalarim Java, Spring Boot, Hibernate va REST API-larni o'z ichiga oladi. Shuningdek, Python va C++ bilan ham ishlayman.
+Asosiy texnologiyalarim Java, Spring Boot, Hibernate va REST API-larni o'z ichiga oladi. Shuningdek, Python va C++ bilan ham ishlayman.
 
 ---
 

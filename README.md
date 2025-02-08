@@ -29,14 +29,14 @@ Web dasturlar, mikroxizmatlar va backend tizimlar bilan ishlashni yoqtiraman. As
 
 ## 📊 GitHub Statistikam  
 
-![menacegithub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=menacegithub&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=menacegithub&layout=compact&theme=radical)
+![menacedjava's GitHub Stats](https://github-readme-stats.vercel.app/api?username=menacedjava&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=menacedjava&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophy  
-![trophy](https://github-profile-trophy.vercel.app/?username=menacegithub&theme=dracula&margin-w=10&no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=menacedjava&theme=dracula&margin-w=10&no-frame=true)
 
 ## 🔥 GitHub Faoliyat Grafigi  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=menacegithub&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=menacedjava&theme=react-dark)
 
 ---
 
@@ -48,7 +48,7 @@ Texnologiyalar:
 - Database: PostgreSQL
 - Containerization: Docker
 
-🔗 GitHub: [E-Commerce Repository](https://github.com/menacegithub/e-commerce-platform)
+🔗 GitHub: [E-Commerce Repository](https://github.com/menacedjava/e-commerce-platform)
 
 ---
 

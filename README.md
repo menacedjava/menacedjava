@@ -39,18 +39,6 @@ Asosiy texnologiyalarim Java, Spring Boot, Hibernate va REST API-larni o'z ichig
 
 ---
 
-## 🛠 Portfolio Loyihalarim  
-
-Texnologiyalar:
-- Backend: Java, Spring Boot, Hibernate, Python, C++
-- Frontend: React, TailwindCSS
-- Database: PostgreSQL
-- Containerization: Docker
-
-🔗 GitHub: [E-Commerce Repository](https://github.com/menacedjava/e-commerce-platform)
-
----
-
 ## 💌 Mening Kontaktlarim  
 📱 Telegram: [@menace_pdp](https://t.me/@menace_pdp)  
 

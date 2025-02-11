@@ -1,8 +1,8 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Runs every 6 hours
+    - cron: "0 0 * * *"  # Har kuni ishga tushadi
   workflow_dispatch:
 
 jobs:
@@ -10,32 +10,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Repozitoriyani yuklab olish
         uses: actions/checkout@v3
 
-      - name: Create output directory
-        run: mkdir -p dist
-
-      - name: Generate Snake GIF
+      - name: Snake animatsiyasini yaratish
         uses: Platane/snk@v3
         with:
           github_user_name: menacedjava
-          outputs: dist  # `gif_out_path` va `svg_out_path` o‘rniga ishlatiladi
+          outputs: dist/snake.svg
 
-      - name: Show build status
-        run: git status
-
-      - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Output branchga push qilish
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout output || git checkout -b output
+          mv dist/snake.svg snake.svg
+          git add snake.svg
+          git commit -m "Snake animatsiyasi yangilandi" || echo "Hech qanday o'zgarish yo'q"
+          git push origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

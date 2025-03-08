@@ -23,7 +23,7 @@ Asosiy texnologiyalarim Java, Spring Boot, Hibernate va REST API-larni o'z ichig
 ## 🏆 GitHub Trophy  
 ![trophy](https://github-profile-trophy.vercel.app/?username=menacedjava&theme=dracula&margin-w=10&no-frame=true)
 
-## 🔥 GitHub Faoliyat Grafigi  
+## 🔥 GitHub faoliyat grafigi  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=menacedjava&theme=react-dark)
 
 ---

@@ -1,6 +1,6 @@
 # 👋 Salom, Men menacedjava
 [![GitHub followers](https://img.shields.io/github/followers/menacedjava?style=social)](https://github.com/menacedjava)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/davron-madumarov/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/davron-madumarov-999b90297/)
 ### 🚀 Full-Stack Java Developer | Open Source Contributor  
 Asosiy texnologiyalarim Java, Spring Boot, Hibernate va REST API-larni o'z ichiga oladi. Shuningdek, Python va C++ bilan ham ishlayman.
 

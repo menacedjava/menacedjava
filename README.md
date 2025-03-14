@@ -32,10 +32,5 @@ Asosiy texnologiyalarim Java, Spring Boot, Hibernate va REST API-larni o'z ichig
 📱 Telegram: [@menace_pdp](https://t.me/@menace_pdp)  
 
 ---
-githubUsers.sort(_.followers)
-           .filter(_.location == 'Uzbekistan') 
-           .take(1000)
-           .sort(_.contributions)
-           .take(256)
 
 🎯 Men yangi hamkorlik va qiziqarli loyihalar uchun ochiqman! Menga bemalol bog‘laning! 🚀

@@ -62,6 +62,8 @@ My core technologies include Java, Spring Boot, Hibernate, and REST APIs. I also
 
 ![menacedjava's GitHub Stats](https://github-readme-stats.vercel.app/api?username=menacedjava&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=menacedjava&layout=compact&theme=radical)
+## Language Stats
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=menacedjava&langs_count=10&theme=gruvbox)](https://github.com/menacedjava)
 
 ## 🏆 GitHub Trophy  
 ![trophy](https://github-profile-trophy.vercel.app/?username=menacedjava&theme=dracula&margin-w=10&no-frame=true)

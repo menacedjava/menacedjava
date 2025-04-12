@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/davron-madumarov-999b90297/)
 [![committers.top badge](https://user-badge.committers.top/uzbekistan/menacedjava.svg)](https://user-badge.committers.top/uzbekistan/menacedjava)
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C989%20hrs%2055%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1,902,224-blue)
 ### 🚀 Java developer | Open source contributor  
 My core technologies include Java, Spring Boot, Hibernate, and REST APIs. I also work with Python, C++, and JavaScript.
 

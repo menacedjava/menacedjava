@@ -70,6 +70,9 @@ My core technologies include Java, Spring Boot, Hibernate, and REST APIs. I also
 ![trophy](https://github-profile-trophy.vercel.app/?username=menacedjava&theme=dracula&margin-w=10&no-frame=true)
 
 ---
+<p align="center">
+  <img alt="Daily Work" height="180px" src="https://i.imgur.com/uhZdH9C.gif" />
+</p>
 
 ## 💌 Contacts  
 📱 Telegram: [@menace_pdp](https://t.me/@menace_pdp)  

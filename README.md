@@ -10,9 +10,10 @@
 </p>
 
 ### 🚀 Java developer | Open source contributor  
-My core technologies include Java, Spring Boot, Hibernate, and REST APIs. I also work with Python, C++, and JavaScript.
+I'm a passionate and self-driven *Java Backend Developer* with a strong interest in building clean, scalable, and efficient software. With hands-on experience in Spring Boot, RESTful APIs, and databases, I enjoy designing solutions that solve real-world problems.
 
 ---
+
 ### Skills
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -61,6 +62,7 @@ My core technologies include Java, Spring Boot, Hibernate, and REST APIs. I also
 <p align="left"> <a href="https://www.github.com/menacedjava" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/menace.wtf" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> 
 <a href="https://www.linkedin.com/in/davron-madumarov-999b90297/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> 
 <a href="https://www.youtube.com/@Menace.wtf.f" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+
 ---
 
 ## 📊 GitHub statisticts 
@@ -68,10 +70,13 @@ My core technologies include Java, Spring Boot, Hibernate, and REST APIs. I also
 ![menacedjava's GitHub Stats](https://github-readme-stats.vercel.app/api?username=menacedjava&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=menacedjava&layout=compact&theme=radical)
 
+---
+
 ## 🏆 GitHub Trophy  
 ![trophy](https://github-profile-trophy.vercel.app/?username=menacedjava&theme=dracula&margin-w=10&no-frame=true)
 
 ---
+
 <p align="center">
   <img alt="Daily Work" height="180px" src="https://i.imgur.com/uhZdH9C.gif" />
 </p>

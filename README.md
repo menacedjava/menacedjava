@@ -4,7 +4,7 @@
 [![committers.top badge](https://user-badge.committers.top/uzbekistan/omon212.svg)](https://user-badge.committers.top/uzbekistan/omon212)
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C989%20hrs%2055%20mins-blue)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1,092,224-blue)
-
+ 
 <p align="center">
  <img width="1000" src=".github/workflows/snake.svg" alt="snake"/>
 </p>

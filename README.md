@@ -11,7 +11,6 @@
 
 ### 🚀 Java developer | Open source contributor  
 I'm a passionate and self-driven *Java Backend Developer* with a strong interest in building clean, scalable, and efficient software. With hands-on experience in Spring Boot, RESTful APIs, and databases, I enjoy designing solutions that solve real-world problems.
-
 ---
 
 ### Skills

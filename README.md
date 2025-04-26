@@ -5,7 +5,11 @@
 [![committers.top badge](https://user-badge.committers.top/uzbekistan/omon212.svg)](https://user-badge.committers.top/uzbekistan/omon212)
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C989%20hrs%2055%20mins-blue)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-92,224-blue)
- 
+
+ <div class="typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Menace;+Communication+Engineer;+Java+Developer;" alt="Typing SVG">
+    </div>
+    
 <p align="center">
  <img width="1000" src=".github/workflows/snake.svg" alt="snake"/>
 </p>

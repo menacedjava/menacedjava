@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Menace
+
 
 [![GitHub followers](https://img.shields.io/github/followers/menacedjava?style=social)](https://github.com/menacedjava)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/davron-madumarov-999b90297/)
@@ -9,6 +9,7 @@
 <p align="center">
  <img width="1000" src=".github/workflows/snake.svg" alt="snake"/>
 </p>
+
 
 ### 🚀 Java developer | Open source contributor  
 I'm a passionate and self-driven *Java Backend Developer* with a strong interest in building clean, scalable, and efficient software. With hands-on experience in Spring Boot, RESTful APIs, and databases, I enjoy designing solutions that solve real-world problems.
@@ -82,6 +83,11 @@ I'm a passionate and self-driven *Java Backend Developer* with a strong interest
   <img alt="Daily Work" height="180px" src="https://i.imgur.com/uhZdH9C.gif" />
 </p>
 
+  <p align="center" >
+  <img alt="photo" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZybWx4ZXo0Y2N0anI1aHd5cWoxYmVndnlubDB5NXN2YWFxOGIybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif"  />
+  </p>
+
+    
 ## 💌 Contacts  
 📱 Telegram: [@menace_pdp](https://t.me/@menace_pdp)  
 

@@ -7,7 +7,7 @@
 
  <div class="typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Menace;+Communication+Engineer;+Java+Developer;"  
-  alt="Typing SVG">
+   alt="Typing SVG">
     </div>
     
 <p align="center">

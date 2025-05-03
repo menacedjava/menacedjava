@@ -1,4 +1,3 @@
-
 [![GitHub followers](https://img.shields.io/github/followers/menacedjava?style=social)](https://github.com/menacedjava)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/davron-madumarov-999b90297/)
 [![committers.top badge](https://user-badge.committers.top/uzbekistan/omon212.svg)](https://user-badge.committers.top/uzbekistan/omon212)

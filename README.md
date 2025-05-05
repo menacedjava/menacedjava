@@ -90,6 +90,9 @@ I'm a passionate and self-driven *Java Backend Developer* with a strong interest
   <img alt="photo" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZybWx4ZXo0Y2N0anI1aHd5cWoxYmVndnlubDB5NXN2YWFxOGIybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif"  />
   </p>
 
+<p align="center">
+  <img src="https://i.gifer.com/3IsP.gif" alt="My Image" style="height: 80px; width: auto;" />
+</p>
     
 ## 💌 Contacts  
 📱 Telegram: [@menace_pdp](https://t.me/@menace_pdp)  

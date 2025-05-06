@@ -3,8 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/menacedjava?style=social)](https://github.com/menacedjava)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/davron-madumarov-999b90297/)
 [![committers.top badge](https://user-badge.committers.top/uzbekistan/menacedjava.svg)](https://user-badge.committers.top/uzbekistan/menacedjava)
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C989%20hrs%2055%20mins-blue)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-92,224-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C908%20hrs%2055%20mins-blue)
 
  <div class="typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Menace;+Software+Engineer;+Java+Developer;"  

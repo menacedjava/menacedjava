@@ -93,7 +93,10 @@ I'm a passionate and self-driven *Java Backend Developer* with a strong interest
 <p align="center">
   <img src="https://i.gifer.com/3IsP.gif" alt="My Image" style="height: 80px; width: auto;" />
 </p>
-    
+    <div align="center">
+ <img src="https://github.com/user-attachments/assets/ed4017d8-8f66-4870-9bf8-a2e9873aca58"  style="width: 250px; height: auto;">  <img src="https://github.com/user-attachments/assets/4539f867-57a1-426f-9d38-a8e3a6b7256d"  style="width: 250px; height: auto;">
+
+</div>
 ## 💌 Contacts  
 📱 Telegram: [@menace_pdp](https://t.me/@menace_pdp)  
 

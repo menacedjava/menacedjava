@@ -1,3 +1,4 @@
+### *MENACEDJAVA*
 
 [![GitHub followers](https://img.shields.io/github/followers/menacedjava?style=social)](https://github.com/menacedjava)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/davron-madumarov-999b90297/)
@@ -6,9 +7,11 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-92,224-blue)
 
  <div class="typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Menace;+Communication+Engineer;+Java+Developer;"  
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Menace;+Software+Engineer;+Java+Developer;"  
    alt="Typing SVG">
     </div>
+    
+---
     
 <p align="center">
  <img width="1000" src=".github/workflows/snake.svg" alt="snake"/>

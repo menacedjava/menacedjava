@@ -1,3 +1,4 @@
+
 [![GitHub followers](https://img.shields.io/github/followers/menacedjava?style=social)](https://github.com/menacedjava)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/davron-madumarov-999b90297/)
 [![committers.top badge](https://user-badge.committers.top/uzbekistan/menacedjava.svg)](https://user-badge.committers.top/uzbekistan/menacedjava)
@@ -13,6 +14,13 @@
  <img width="1000" src=".github/workflows/snake.svg" alt="snake"/>
 </p>
 
+---
+
+<div align="center">
+ <img src="https://github.com/user-attachments/assets/97b79ec2-eed3-4fbe-847f-acfa3fe66040"  style="width: 350px; height: auto;">  <img src="https://github.com/user-attachments/assets/62b67557-7cd0-4205-ac7c-25564fc56d5f"  style="width: 350px; height: auto;">
+</div>
+
+---
 
 ### 🚀 Java developer | Open source contributor  
 I'm a passionate and self-driven *Java Backend Developer* with a strong interest in building clean, scalable, and efficient software. With hands-on experience in Spring Boot, RESTful APIs, and databases, I enjoy designing solutions that solve real-world problems.
@@ -97,9 +105,14 @@ I'm a passionate and self-driven *Java Backend Developer* with a strong interest
  <img src="https://github.com/user-attachments/assets/ed4017d8-8f66-4870-9bf8-a2e9873aca58"  style="width: 250px; height: auto;">  <img src="https://github.com/user-attachments/assets/4539f867-57a1-426f-9d38-a8e3a6b7256d"  style="width: 250px; height: auto;">
 
 </div>
+
 ## 💌 Contacts  
 📱 Telegram: [@menace_pdp](https://t.me/@menace_pdp)  
 
----
+### 🌟 **Thank You for Visiting!**
 
-🎯 I am open to new collaborations and interesting projects! Feel free to contact me! 🚀
+Feel free to star ⭐ my repositories, fork my projects, or drop me a message. Let’s create something from nothing! 🎮
+<img src="https://github.com/user-attachments/assets/712b70cc-701c-44ce-9247-e2517e971d48"  style="width: 1000px; height: auto;"> 
+
+
+---

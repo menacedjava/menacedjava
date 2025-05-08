@@ -1,11 +1,8 @@
 ### *MENACEDJAVA*
 
 [![GitHub followers](https://img.shields.io/github/followers/menacedjava?style=social)](https://github.com/menacedjava)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/davron-madumarov-999b90297/)
-
 [![committers.top badge](https://user-badge.committers.top/uzbekistan/menacedjava.svg)](https://user-badge.committers.top/uzbekistan/menacedjava)
-
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C908%20hrs%2055%20mins-blue)
 
  <div class="typing-svg">

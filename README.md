@@ -95,6 +95,11 @@ I'm a passionate and self-driven *Java Backend Developer* with a strong interest
 ---
 
 <p align="center">
+  <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
+</p>
+
+
+<p align="center">
   <img alt="Daily Work" height="180px" src="https://i.imgur.com/uhZdH9C.gif" />
 </p>
 

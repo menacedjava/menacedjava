@@ -6,7 +6,7 @@
 
 　˚　　　　　　　　　　　　　　　　　　　　　ﾟ　　　　　.　　　　　　　　　　　　　　　. 　　 　 🌎 ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ,　 　　　　　　　　　　　　　　* .　　　　　 　　　　　　　　　　　　　　.　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　.
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:24283b&height=200&section=header&text=MENACE&fontSize=60&fontColor=#006cfe&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:24283b&height=200&section=header&text=MENACE&fontSize=60&fontColor=#782bcf&animation=fadeIn)
 
 [![GitHub followers](https://img.shields.io/github/followers/menacedjava?style=social)](https://github.com/menacedjava)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/davron-madumarov-999b90297/)

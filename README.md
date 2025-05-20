@@ -118,13 +118,6 @@ I'm a passionate and self-driven *Java Backend Developer* with a strong interest
 </div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=menacedjava" alt="menacedjava" />
   
-## 💌 Contacts  
-📱 Telegram: [@menace_pdp](https://t.me/@menace_pdp)  
-
-### 🌟 **Thank You for Visiting!**
-
-Feel free to star ⭐ my repositories, fork my projects, or drop me a message. Let’s create something from nothing! 🎮
-<img src="https://github.com/user-attachments/assets/712b70cc-701c-44ce-9247-e2517e971d48"  style="width: 1000px; height: auto;"> 
 
 ---
 
@@ -168,3 +161,13 @@ Feel free to star ⭐ my repositories, fork my projects, or drop me a message. L
 <p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{menacedjava}/count.svg" /></p> 
 </div>
+
+
+## 💌 Contacts  
+📱 Telegram: [@menace_pdp](https://t.me/@menace_pdp)  
+
+### 🌟 **Thank You for Visiting!**
+
+Feel free to star ⭐ my repositories, fork my projects, or drop me a message. Let’s create something from nothing! 🎮
+<img src="https://github.com/user-attachments/assets/712b70cc-701c-44ce-9247-e2517e971d48"  style="width: 1000px; height: auto;"> 
+    

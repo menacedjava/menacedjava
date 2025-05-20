@@ -116,10 +116,10 @@ I'm a passionate and self-driven *Java Backend Developer* with a strong interest
  <img src="https://github.com/user-attachments/assets/ed4017d8-8f66-4870-9bf8-a2e9873aca58"  style="width: 250px; height: auto;">  <img src="https://github.com/user-attachments/assets/4539f867-57a1-426f-9d38-a8e3a6b7256d"  style="width: 250px; height: auto;">
 
 </div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=menacedjava" alt="menacedjava" />
-  
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=menacedjava" alt="menacedjava" />
+</div>
 
 ####
 <br clear="both">

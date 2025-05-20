@@ -117,6 +117,7 @@ I'm a passionate and self-driven *Java Backend Developer* with a strong interest
 
 </div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=menacedjava" alt="menacedjava" />
+  
 ## 💌 Contacts  
 📱 Telegram: [@menace_pdp](https://t.me/@menace_pdp)  
 

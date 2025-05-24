@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Menace;+Software+Engineer;+Java+Developer;"  
    alt="Typing SVG">
     </div>
-    
+
 ---
     
 <p align="center">

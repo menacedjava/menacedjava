@@ -171,4 +171,6 @@ I'm a passionate and self-driven *Java Backend Developer* with a strong interest
 
 Feel free to star ⭐ my repositories, fork my projects, or drop me a message. Let’s create something from nothing! 🎮
 
-[![Matrix SVG](assets/matrix.svg)](assets/matrix.svg)
+<p align="center">
+ <img width="1000" src=".github/workflows/matrix.svg" alt="snake"/>
+</p>

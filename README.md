@@ -2,7 +2,6 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:24283b&height=200&section=header&text=Menace&fontSize=60&fontColor=70a5fd&animation=fadeIn)
 
 [![GitHub followers](https://img.shields.io/github/followers/menacedjava?style=social)](https://github.com/menacedjava)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/davron-madumarov-999b90297/)
 <a href="https://user-badge.committers.top/uzbekistan/menacedjava">
   <img src="https://user-badge.committers.top/uzbekistan/menacedjava.svg" alt="Committers Top" />
 </a>

@@ -98,6 +98,17 @@ I'm a passionate and self-driven *Java Backend Developer* with a strong interest
 ![trophy](https://github-profile-trophy.vercel.app/?username=menacedjava&theme=dracula&margin-w=10&no-frame=true)
 
 ---
+## 📜 Certifications
+<div>
+  <img src="https://images.credly.com/images/731e7ef4-9b0c-4d7b-ab65-23cc699c0aa3/twitter_thumb_201604_blob" width="140"/>
+  <img src="https://github.com/cgrundman/cgrundman/blob/main/gen_ai.png" width="140"/>
+  <img src="https://github.com/cgrundman/cgrundman/blob/main/cd.png" width="140"/>
+
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" width="140"/>
+
+</div>
+
+---
 
 <p align="center">
   <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">

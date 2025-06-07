@@ -100,6 +100,10 @@ I'm a passionate and self-driven *Java Backend Developer* with a strong interest
 ---
 
 <p align="center">
+  <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+</p>
+
+<p align="center">
   <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
 </p>
 
@@ -111,6 +115,7 @@ I'm a passionate and self-driven *Java Backend Developer* with a strong interest
   <p align="center" >
   <img alt="photo" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZybWx4ZXo0Y2N0anI1aHd5cWoxYmVndnlubDB5NXN2YWFxOGIybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif"  />
   </p>
+
 
 <p align="center">
   <img src="https://i.gifer.com/3IsP.gif" alt="My Image" style="height: 80px; width: auto;" />

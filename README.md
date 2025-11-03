@@ -8,7 +8,7 @@
 <a href="https://user-badge.committers.top/uzbekistan_public/SeniorMenace">
 <img src="https://user-badge.committers.top/uzbekistan_public/SeniorMenace.svg" />
 </a>
-<a href="https://user-badge.committers.top/uzbekistan_private/menacedjava">
+<a href="https://user-badge.committers.top/uzbekistan_private/SeniorMenace">
 <img src="https://user-badge.committers.top/uzbekistan_private/menacedjava.svg">
 </a>
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C908%20hrs%2055%20mins-blue)

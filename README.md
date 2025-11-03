@@ -3,9 +3,9 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/SeniorMenace?style=social)](https://github.com/SeniorMenace)
 <a href="https://user-badge.committers.top/uzbekistan/SeniorMenace">
-  <img src="https://user-badge.committers.top/uzbekistan/menacedjava.svg" alt="Committers Top" />
+  <img src="https://user-badge.committers.top/uzbekistan/SeniorMenace.svg" alt="Committers Top" />
 </a>
-<a href="https://user-badge.committers.top/uzbekistan_public/menacedjava">
+<a href="https://user-badge.committers.top/uzbekistan_public/SeniorMenace">
 <img src="https://user-badge.committers.top/uzbekistan_public/menacedjava.svg" />
 </a>
 <a href="https://user-badge.committers.top/uzbekistan_private/menacedjava">

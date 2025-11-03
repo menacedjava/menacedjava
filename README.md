@@ -11,7 +11,7 @@
 <a href="https://user-badge.committers.top/uzbekistan_private/SeniorMenace">
 <img src="https://user-badge.committers.top/uzbekistan_private/SeniorMenace.svg">
 </a>
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C908%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C908%20hrs%2055%20mins-blue)
 <img align="right" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding" width="230px">
 
  <div class="typing-svg">
@@ -89,7 +89,7 @@ I'm a passionate and self-driven *Java Backend Developer* with a strong interest
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/menacedjava" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/menace.wtf" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> 
+<p align="left"> <a href="https://www.github.com/SeniorMenace" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/menace.wtf" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> 
 <a href="https://www.linkedin.com/in/davron-madumarov-999b90297/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> 
 <a href="https://www.youtube.com/@Menace.wtf.f" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
@@ -97,13 +97,13 @@ I'm a passionate and self-driven *Java Backend Developer* with a strong interest
 
 ## 📊 GitHub statisticts 
 
-![menacedjava's GitHub Stats](https://github-readme-stats.vercel.app/api?username=menacedjava&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=menacedjava&layout=compact&theme=radical)
+![SeniorMenace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeniorMenace&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorMenace&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophy  
-![trophy](https://github-profile-trophy.vercel.app/?username=menacedjava&theme=dracula&margin-w=10&no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=SeniorMenace&theme=dracula&margin-w=10&no-frame=true)
 
 ---
 ## 📜 Certifications
@@ -119,7 +119,7 @@ I'm a passionate and self-driven *Java Backend Developer* with a strong interest
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=menacedjava" alt="menacedjava" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeniorMenace" alt="SeniorMenace" />
 </div>
 
 ---
@@ -190,7 +190,7 @@ I'm a passionate and self-driven *Java Backend Developer* with a strong interest
 <div align="center">
 <br>
 <p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{menacedjava}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SeniorMenace}/count.svg" /></p> 
 </div>
 
 <img src="https://github.com/user-attachments/assets/712b70cc-701c-44ce-9247-e2517e971d48"  style="width: 1000px; height: auto;"> 

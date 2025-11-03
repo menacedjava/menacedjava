@@ -6,7 +6,7 @@
   <img src="https://user-badge.committers.top/uzbekistan/SeniorMenace.svg" alt="Committers Top" />
 </a>
 <a href="https://user-badge.committers.top/uzbekistan_public/SeniorMenace">
-<img src="https://user-badge.committers.top/uzbekistan_public/menacedjava.svg" />
+<img src="https://user-badge.committers.top/uzbekistan_public/SeniorMenace.svg" />
 </a>
 <a href="https://user-badge.committers.top/uzbekistan_private/menacedjava">
 <img src="https://user-badge.committers.top/uzbekistan_private/menacedjava.svg">

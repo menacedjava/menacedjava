@@ -3,13 +3,13 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/menacedjava?style=social)](https://github.com/menacedjava)
 <a href="https://user-badge.committers.top/russia/menacedjava">
-  <img src="https://user-badge.committers.top/russia/menacedjava.svg" alt="Committers Top" />
+  <img src="https://user-badge.committers.top/brazil/menacedjava.svg" alt="Committers Top" />
 </a>
-<a href="https://user-badge.committers.top/russia_public/menacedjava">
-<img src="https://user-badge.committers.top/russia_public/menacedjava.svg" />
+<a href="https://user-badge.committers.top/brazil_public/menacedjava">
+<img src="https://user-badge.committers.top/brazil_public/menacedjava.svg" />
 </a>
-<a href="https://user-badge.committers.top/russia_private/menacedjava">
-<img src="https://user-badge.committers.top/russia_private/menacedjava.svg">
+<a href="https://user-badge.committers.top/brazil_private/menacedjava">
+<img src="https://user-badge.committers.top/brazil_private/menacedjava.svg">
 </a>
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C908%20hrs%2055%20mins-blue)

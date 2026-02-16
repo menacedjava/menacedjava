@@ -35,7 +35,10 @@
 <!-- <div align="center"> 
  <img src="https://github.com/user-attachments/assets/97b79ec2-eed3-4fbe-847f-acfa3fe66040"  style="width: 350px; height: auto;">  <img //src="https://github.com/user-attachments/assets/62b67557-7cd0-4205-ac7c-25564fc56d5f"  style="width: 350px; height: auto;">
 </div> -->
-
+<p align="center" >
+<a href="http://www.github.com/menacedjava"><img src="https://github-readme-streak-stats.herokuapp.com/?user=menacedjava&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  </p>
+  
 ---
 
 ## 🚀 Java developer | Open source contributor  
@@ -195,6 +198,8 @@ I'm a passionate and self-driven *Java Backend Developer* with a strong interest
 <img src="https://github.com/user-attachments/assets/712b70cc-701c-44ce-9247-e2517e971d48"  style="width: 1000px; height: auto;"> 
 ## 💌 Contacts  
 📱 Telegram: [@menace_pdp](https://t.me/@senior_menace)  
+-->
+
 
 ### 🌟 **Thank You for Visiting!**
 

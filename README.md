@@ -2,14 +2,14 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:24283b&height=200&section=header&text=Menace&fontSize=60&fontColor=70a5fd&animation=fadeIn)
 
 [![GitHub followers](https://img.shields.io/github/followers/menacedjava?style=social)](https://github.com/menacedjava)
-<a href="https://user-badge.committers.top/mexico/menacedjava">
-  <img src="https://user-badge.committers.top/mexico/menacedjava.svg" alt="Committers Top" />
+<a href="https://user-badge.committers.top/uae/menacedjava">
+  <img src="https://user-badge.committers.top/uae/menacedjava.svg" alt="Committers Top" />
 </a>
-<a href="https://user-badge.committers.top/mexico_public/menacedjava">
-<img src="https://user-badge.committers.top/mexico_public/menacedjava.svg" />
+<a href="https://user-badge.committers.top/uae_public/menacedjava">
+<img src="https://user-badge.committers.top/uae_public/menacedjava.svg" />
 </a>
-<a href="https://user-badge.committers.top/mexico_private/menacedjava">
-<img src="https://user-badge.committers.top/mexico_private/menacedjava.svg">
+<a href="https://user-badge.committers.top/uae_private/menacedjava">
+<img src="https://user-badge.committers.top/uae_private/menacedjava.svg">
 </a>
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C908%20hrs%2055%20mins-blue)
